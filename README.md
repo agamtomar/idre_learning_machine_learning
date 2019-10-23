@@ -32,6 +32,6 @@ Where: UCLA Math Science Building 5628 (Visualization Portal)
 
 ---
 
-#####  Survey [Link](https://forms.gle/t3f8CztFQpeFFksy6)
+##### Please complete the survey: [Link](https://forms.gle/t3f8CztFQpeFFksy6)
 
 ##### Instructor: [Qiyang Hu](mailto:huqy@idre.ucla.edu)
