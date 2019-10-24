@@ -2,28 +2,28 @@
 
 This folder contains the slides in PDFs and colab demos for the "Learning Machine Learning with Kaggle Challenges" by UCLA IDRE.
 
-#### Introduction
+### 1. Introduction
 When: Oct 24, 2019 11am-12pm
 
 Where: UCLA Math Science Building 5628 (Visualization Portal)
 
 [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-introduction)
 
-#### Classification: Titanic Challenge
+### 2. Classification: Titanic Challenge
 When: Oct 31, 2019 11am-1pm
 
 Where: UCLA Math Science Building 5628 (Visualization Portal)
 
 [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-solving-titanic-problem)
 
-#### Deep Learning (1): Dogs-vs-Cats Challenge
+### 3. Deep Learning (1): Dogs-vs-Cats Challenge
 When: Nov 7, 2019 11am-1pm
 
 Where: UCLA Math Science Building 5628 (Visualization Portal)
 
 [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-deep-learning-for-dogs-vs-cats-problem)
 
-#### Deep Learning (2): better solutions for Dogs-vs-Cats Challenge
+### 4. Deep Learning (2): better solutions for Dogs-vs-Cats Challenge
 When: Nov 14, 2019 11am-1pm
 
 Where: UCLA Math Science Building 5628 (Visualization Portal)
