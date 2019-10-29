@@ -9,6 +9,10 @@ Where: UCLA Math Science Building 5628 (Visualization Portal)
 
 [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-introduction)
 
+[Slides](https://github.com/huqy/idre_learning_machine_learning/blob/master/1_ML_Intro.pdf)
+
+Colab Demo: [Colab_Utils.ipynb](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/1_Colab_Utils.ipynb)
+
 ### 2. Classification: Titanic Challenge
 When: Oct 31, 2019 11am-1pm
 
