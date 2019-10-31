@@ -5,7 +5,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Machin
 #### Introduction
 
  - When: Oct 24, 2019 11am-12pm 
- - Where: UCLA Math Science Building 5628 (Visualization Portal)
+ - Where: UCLA Math Science Building 5628 (Visualization Portal) [Map](https://goo.gl/maps/ryeJd6sVpkCNkF5u6)
  - [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-introduction)
  - [Slides](https://huqy.github.io/idre_learning_machine_learning/1_ML_Intro.pdf)
  - Colab Demo: [Colab's Util](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/1_Colab_Utils.ipynb)
@@ -13,19 +13,19 @@ This folder contains the slides in PDFs and colab demos for the "Learning Machin
 
 #### Classification: Titanic Challenge
 - When: Oct 31, 2019 11am-1pm
-- Where: UCLA Math Science Building 5628 (Visualization Portal)
+- Where: UCLA Math Science Building 5628 (Visualization Portal) [Map](https://goo.gl/maps/ryeJd6sVpkCNkF5u6)
 - [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-solving-titanic-problem)
- - [Slides](https://github.com/huqy/idre_learning_machine_learning/blob/master/2_ML_Classification.pdf)
+ - [Slides](https://huqy.github.io/idre_learning_machine_learning/2_ML_Classification.pdf)
  - Colab Demos: [Toy Models](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/2_toy_models.ipynb), [Titanic Challenge](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/2_titanic_challenge.ipynb)
 
 #### Deep Learning (1): Dogs-vs-Cats Challenge
 - When: Nov 7, 2019 11am-1pm
-- Where: UCLA Math Science Building 5628 (Visualization Portal)
+- Where: UCLA Math Science Building 5628 (Visualization Portal) [Map](https://goo.gl/maps/ryeJd6sVpkCNkF5u6)
 - [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-deep-learning-for-dogs-vs-cats-problem)
 
 #### Deep Learning (2): better solutions for Dogs-vs-Cats Challenge
 - When: Nov 14, 2019 11am-1pm
-- Where: UCLA Math Science Building 5628 (Visualization Portal)
+- Where: UCLA Math Science Building 5628 (Visualization Portal) [Map](https://goo.gl/maps/ryeJd6sVpkCNkF5u6)
 - [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-deep-learning-for-dogs-vs-cats-problem-with-better-solutions)
 
 ---
