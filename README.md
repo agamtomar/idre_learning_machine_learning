@@ -8,13 +8,15 @@ This folder contains the slides in PDFs and colab demos for the "Learning Machin
  - Where: UCLA Math Science Building 5628 (Visualization Portal)
  - [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-introduction)
  - [Slides](https://huqy.github.io/idre_learning_machine_learning/1_ML_Intro.pdf)
- - Colab Demo: [Colab_Utils.ipynb](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/1_Colab_Utils.ipynb)
+ - Colab Demo: [Colab's Util](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/1_Colab_Utils.ipynb)
 
 
 #### Classification: Titanic Challenge
 - When: Oct 31, 2019 11am-1pm
 - Where: UCLA Math Science Building 5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-solving-titanic-problem)
+ - [Slides](https://huqy.github.io/idre_learning_machine_learning/2_ML_Classification.pdf)
+ - Colab Demos: [Toy Models](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/2_toy_models.ipynb), [Titanic Challenge](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/2_titanic_challenge.ipynb)
 
 #### Deep Learning (1): Dogs-vs-Cats Challenge
 - When: Nov 7, 2019 11am-1pm
