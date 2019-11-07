@@ -22,6 +22,8 @@ This folder contains the slides in PDFs and colab demos for the "Learning Machin
 - When: Nov 7, 2019 11am-1pm
 - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-machine-learning-with-kaggle-challenges-deep-learning-for-dogs-vs-cats-problem)
+ - [Slides](https://huqy.github.io/idre_learning_machine_learning/3_DL_general.pdf)
+ - Colab Demos: [Dogs-vs-Cats Challenge (Plain)](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/3_dogs-vs-cats_plain.ipynb)
 
 #### Deep Learning (2): Better Solutions for Dogs-vs-Cats Challenge
 - When: Nov 14, 2019 11am-1pm
